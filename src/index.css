@@ -116,6 +116,9 @@ form {
   background-color: var(--color-lightest);
   border-radius: 7px;
 }
+.form-color {
+  background-color: white;
+}
 
 .form-add-friend {
   grid-template-columns: 1fr 1.5fr;
