@@ -6,11 +6,11 @@
     Bill calculator | React App 
     <br />
     <br />
-    <a href="#DEMOLINK#">View Demo</a>
+    <a href="https://foodler-react-app.netlify.app">View Demo</a>
     ·
-    <a href="#ISSUES PAGE LINK#">Report Bug</a>
+    <a href="https://github.com/shpokas-io/foodler-app/issues">Report Bug</a>
     ·
-    <a href="#ISSUES PAGE LINK#">Request Feature</a>
+    <a href="https://github.com/shpokas-io/foodler-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -48,7 +48,7 @@ This project is ment to solve a problem during trips with friends by helping spl
 - Random picture generation for friend icons
 - Calculation of bill between friends
 
-<img src="../foodler-app/src/images/screenshot-app.png" width="800px" />
+<img src="./src/images/screenshot-app.png" width="800px" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
